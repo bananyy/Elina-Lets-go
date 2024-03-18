@@ -1,0 +1,6 @@
+.animation {
+    display: block;
+    margin: 0 auto 15px; /* Auto margin horizontally, 15px margin bottom */
+    max-width: 100%; /* Ensure images don't exceed container width */
+    height: auto; /* Maintain aspect ratio */
+}
